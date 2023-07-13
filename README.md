@@ -1,2 +1,2 @@
-# simulaciones
+# Simulaciones
 Notas para simular muestras
